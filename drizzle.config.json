@@ -1,0 +1,1 @@
+{"dialect":"postgresql","schema":"./src/db/schema.ts","dbCredentials":{"url":"postgresql://abhijit@localhost:5432/marathi_society_accounting"}}
